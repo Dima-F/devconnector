@@ -110,7 +110,7 @@ class AddExperience extends Component {
                                 <div className="form-check mb-4">
                                     <input type="checkbox"
                                         className="form-check-input"
-                                        name="curren"
+                                        name="current"
                                         value={this.state.current}
                                         checked={this.state.current}
                                         onChange={this.onCheck}
